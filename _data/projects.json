@@ -9,6 +9,7 @@
 	{
 		"name": "CryptoTracker",
 		"image": "placeholder.jpg",
+		"url": "https://github.com/Pac23/CryptoPriceTracker",
 		"date": "Jan 2018",
 		"tags": ["Python","Crypto"]
 	},

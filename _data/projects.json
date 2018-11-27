@@ -7,7 +7,7 @@
 		"tags": ["Python","Flask"]
 	},
 	{
-		"slug": "cryptotracker"
+		"slug": "cryptotracker",
 		"name": "CryptoTracker",
 		"image": "placeholder.jpg",
 		"url": "https://github.com/Pac23/CryptoPriceTracker",

@@ -4,6 +4,7 @@ title: Heritage Wing Tour Cst Railway Station
 date: '2018-06-25'
 author: Manas Mangaonkar
 categories: [History, Photography]
+tags: [History, Photography]
 ---
 
 A year ago a certain podcast that revolves around the city of mumbai mentioned a Guided tour that gave acess to the inner floors of a UNESCO world heritage site,very few people in the city of a million people know bout It.

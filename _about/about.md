@@ -13,6 +13,6 @@ If you're reading this after 2020, I'd have graduated from Mumbai University wit
 
 My General area of interst is Devops,Api's,Iot and Unix/Linux. 
 
-Other than Tech,i also love Rock & Roll Music and Studying Maps and World War 2 history.  
+Other than Tech,i also love Rock & Roll Music and Studying Maps and World War 2 history.
 
 email: manasmangaonkar[at]gmail.com

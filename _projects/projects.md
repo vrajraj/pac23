@@ -3,6 +3,7 @@ layout: post
 title: Projects
 permalink: /projects/
 ---
+
 {{ page.title }}
 ================
 

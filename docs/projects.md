@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Projects
-permalink: /docs/projects
 ---
 
 {{ page.title }}
